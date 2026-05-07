@@ -1,6 +1,6 @@
 # BU-EC327-PA1
 
-*C++ code for solving problems relating to data types, operations, if statements, simple loops, and basic functions. Developed as part of EC327: Intro to Software Engineering at Boston University.*
+*C++ code for solving problems relating to data types, operations, if statements, simple loops, and basic functions. Developed as part of EC327: Introduction to Software Engineering at Boston University.*
 
 
 ### Q1: Shortest Distance from a Point to a Line
